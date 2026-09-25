@@ -1,0 +1,44 @@
+.search {
+    margin: 20px 50px 0;
+}
+
+.search input {
+    border: 0;
+    padding: 20px 10px 10px;
+    width: 92%;
+    color: #999;
+    font-size: 20px;
+}
+
+.search input:focus {
+    outline: 0;
+    border-bottom: 1px solid #CCC;
+}
+
+button {
+    padding: 10px 20px;
+    background: #002c42;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+}
+
+.radio {
+    margin: 20px 50px 0;
+}
+
+.radio input {
+    width: 20px;
+    height: 20px;
+}
+
+.radio label {
+    font-size: 20px;
+    margin-right: 60px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 50px;
+}
